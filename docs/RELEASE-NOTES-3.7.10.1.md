@@ -65,4 +65,3 @@ Use gnu99 C standard rather than gnu11 standard to maintain support for GCC 4.6.
 Minor spelling and documentation fixes.
 
 Fix uhd_siggen_gui when using lo_locked.
-
